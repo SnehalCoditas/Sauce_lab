@@ -1,7 +1,7 @@
 Feature: SauceLab Login
 
   #1
-  @hello
+  @Test1
   Scenario: Home page default login
     Given User opens browser
     When Login with username and password
